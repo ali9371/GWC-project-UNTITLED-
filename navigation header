@@ -1,0 +1,18 @@
+<body>
+  <div class="header">
+    <div class="head">
+    <h1><a href="a"> Blog Title </a></h1>
+    <h2> *some blog that may or may not work</h2>
+    <nav>
+      <ul>
+        <li><a href="#">Blog stuff</a></li>
+        <li><a href="#">Daily Updates</a></li>
+        <li><a href="#">RNG</a></li>
+        <li><a href="#">Maybe some html</a></li>
+        <li><a href="#">Math</a></li>
+        <li><a href="#">Pigeons</a></li>
+      </ul>
+    </nav>
+    </div>
+  </div>
+</body>
