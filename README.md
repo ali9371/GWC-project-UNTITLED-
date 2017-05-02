@@ -1,2 +1,2 @@
 # GWC-project-UNTITLED-
-Prjoect for girls who code
+Project for girls who code
